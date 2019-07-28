@@ -9,6 +9,6 @@
 <body>
 <p>首页</p>
 <a href="${pageContext.request.contextPath }/index.html">测试跳转</a>
-
+<a href="${pageContext.request.contextPath }/outPut.html">导出</a>
 </body>
 </html>
